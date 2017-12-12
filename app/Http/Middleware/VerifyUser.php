@@ -7,7 +7,7 @@ Use Auth;
 
 class VerifyUser
 {
-    /**
+    /** 
      * Handle an incoming request.
      *
      * @param  \Illuminate\Http\Request  $request
